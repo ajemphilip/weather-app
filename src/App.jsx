@@ -1,5 +1,4 @@
 import { useEffect, useState } from 'react'
-import './App.css'
 import axios from 'axios'
 import ResultOutput from './components/ResultOutput';
 import Form from './components/Form';
